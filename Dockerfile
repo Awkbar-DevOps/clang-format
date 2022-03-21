@@ -7,7 +7,7 @@
 #################################
 # Build the clang-format binary #
 #################################
-FROM alpine:3.14.2
+FROM alpine:3.15.1
 
 ######################
 # Build dependencies #
